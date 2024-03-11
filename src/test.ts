@@ -1,5 +1,5 @@
 export const someFn = (a: number): number => {
-    console.log('AAAAAA')
+    console.log('AAAAAABBBBB')
 
     return a
 }
