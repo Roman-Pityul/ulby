@@ -1,11 +1,12 @@
-import {render} from 'react-dom'
-import { App } from './app'
+import { render } from "react-dom";
+import { App } from "./app";
+import { BrowserRouter } from "react-router-dom";
 
 render(
-  <div>
+  <BrowserRouter>
     <App />
-  </div>,
-  document.getElementById('root')
-)
+  </BrowserRouter>,
+  document.getElementById("root")
+);
 
-// 6 video
+// 7 video 8.00
