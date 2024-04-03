@@ -9,4 +9,5 @@ render(
   document.getElementById("root")
 );
 
-// 12 video
+// 12 video 12.55 
+// Нужно вначале реализовать кастомный classNames, потом продолжать по видео. 
